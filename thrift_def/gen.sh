@@ -1,0 +1,1 @@
+docker run -v "$PWD:/data" thrift thrift -o /data --gen java /data/multiplication.thrift
