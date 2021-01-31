@@ -1,7 +1,5 @@
 package com.vng.zmd.zviettimes.thrift;
 
-import com.vng.zmd.zviettimes.thrift.MultiplicationService;
-
 import org.apache.thrift.TException;
 
 
